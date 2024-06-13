@@ -1,0 +1,50 @@
+army = {
+name = "Army of the Sultan of Muscat"
+location = 40
+regiment = {
+name= "1. Brigade"
+type = irregular
+home = 40
+}
+}
+
+army = {
+name = "Army of the Wali of Zanzibar"
+location = 40
+
+regiment = {
+name= "1. Askaris"
+type = irregular
+home = 40
+}
+}
+
+army = {
+name = "Army of the Wali of Mombasa"
+location = 40
+
+regiment = {
+name= "2. Askaris"
+type = irregular
+home = 40
+}
+}
+
+navy = {
+name = "Red Sea Fleet"
+location = 40
+ship = {
+name= "Transport Flotilla"
+type = clipper_transport
+}
+
+}
+
+navy = {
+name = "Indian Fleet"
+location = 40
+ship = {
+name= "Transport Flotilla"
+type = clipper_transport
+}
+}

@@ -1,0 +1,159 @@
+army = {
+name = "Army of the Tokugawa Shogunate"
+
+leader = {
+name = "Tokugawa Nariaki"
+date = 1836.1.1
+type = land
+personality = disciplined
+background = old_school
+prestige = 0.1
+
+}
+
+location = 40
+regiment = {
+name= "1.Edo"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Edo"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Edo"
+type = irregular
+home = 40
+}
+
+}
+
+army = {
+name = "Army of Daimyo Mori"
+location = 40
+regiment = {
+name= "1.Choshu"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Choshu"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Choshu"
+type = irregular
+home = 40
+}
+
+}
+
+army = {
+name = "Army of Daimyo Shimazu"
+location = 40
+regiment = {
+name= "1.1 Satsuma"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.1 Satsuma"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.1 Satsuma"
+type = irregular
+home = 40
+}
+
+}
+
+army = {
+name = "Army of Daimyo Yamanuchi"
+location = 40
+regiment = {
+name= "1.Tosa"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Tosa"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Tosa"
+type = irregular
+home = 40
+}
+
+}
+
+army = {
+name = "Army of Daimyo Date"
+location = 40
+regiment = {
+name= "1.Sendai"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Sendai"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Sendai"
+type = irregular
+home = 40
+}
+
+}
+
+army = {
+name = "Army of Daimyo Maeda"
+location = 40
+regiment = {
+name= "1.Kaga"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Kaga"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Kaga"
+type = irregular
+home = 40
+}
+
+}
+
+navy = {
+name = "Imperial Fleet"
+location = 40
+ship = {
+name= "1 Yusosentai"
+type = clipper_transport
+}
+
+}
+

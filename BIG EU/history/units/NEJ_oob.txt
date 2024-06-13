@@ -1,0 +1,54 @@
+army = {
+name = "Bedouin Army"
+location = 40
+regiment = {
+name= "1. Shammari"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2. Shammari"
+type = irregular
+home = 40
+}
+}
+
+army = {
+name = "Ibn Saud's Army"
+location = 1011
+regiment = {
+name= "1. Saudi"
+type = irregular
+home = 1011
+}
+
+regiment = {
+name= "2. Saudi"
+type = irregular
+home = 1011
+}
+
+regiment = {
+name= "3. Saudi"
+type = irregular
+home = 1029
+}
+
+}
+
+army = {
+name = "Ibn Rashid's Army"
+location = 956
+regiment = {
+name= "1. 'Ateba"
+type = irregular
+home = 956
+}
+
+regiment = {
+name= "2. 'Ateba"
+type = irregular
+home = 1023
+}
+}

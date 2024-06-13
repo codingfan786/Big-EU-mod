@@ -1,0 +1,45 @@
+army = {
+name = "Army of the Bey of Tunis"
+location = 395
+regiment = {
+name= "1.Askäris"
+type = infantry
+home = 395
+}
+
+regiment = {
+name= "2.Askäris"
+type = infantry
+home = 395
+}
+
+regiment = {
+name= "3.Askäris"
+type = infantry
+home = 356
+}
+
+}
+
+army = {
+name = "Army of Ifriqiya"
+location = 391
+regiment = {
+name= "1.Kroumir"
+type = irregular
+home = 348
+}
+
+regiment = {
+name= "2.Kroumir"
+type = irregular
+home = 403
+}
+
+regiment = {
+name= "3.Kroumir"
+type = irregular
+home = 391
+}
+
+}

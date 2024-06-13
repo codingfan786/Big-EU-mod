@@ -1,0 +1,22 @@
+army = {
+name = "Army of the Maharajah of Jodhpur"
+location = 40
+regiment = {
+name= "1.Jodhpur Legion"
+type = infantry
+home = 40
+}
+
+regiment = {
+name= "2.Jodhpur Legion"
+type = infantry
+home = 40
+}
+
+regiment = {
+name= "1.Jodhpur Horse"
+type = cavalry
+home = 40
+}
+}
+

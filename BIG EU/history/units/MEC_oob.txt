@@ -1,0 +1,9 @@
+army = {
+name = "Mecklenburgische Armee"
+location = 475
+regiment = {
+name= "1. Mecklenburgische Infanterie-Brigade"
+type = infantry
+home = 475
+}
+}

@@ -1,0 +1,31 @@
+leader = {
+name = "Sam Houston"
+type = land
+date="1836.1.1"
+personality = cautious
+background = school_of_defense
+}
+
+
+army = {
+name = "Army of Texas"
+location = 40
+regiment = {
+name= "Travis' Command"
+type = cavalry
+home = 40
+}
+
+regiment = {
+name= "Fannin's Command"
+type = guard
+home = 40
+}
+
+regiment = {
+name = "Burleson's Command"
+type = artillery
+home = 40
+}
+
+}

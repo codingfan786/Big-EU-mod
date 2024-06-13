@@ -1,0 +1,62 @@
+#From;To;Type;Through;Data;Comment
+
+865;851;sea;860;0;Suez strait
+
+#
+# European Straits  
+#
+79;96;sea;73;0;Irish Strait
+561;619;sea;570;0;Aland Strait #Uppsala to Aland #these were in V1
+457;436;sea;397;0;Öresund
+516;485;sea;474;0;Bornholmsfärjan
+619;662;sea;570;0;Aland Strait #Aland to Turku 
+675;708;sea;592;0;Öselsund
+675;666;sea;592;0;Strait of Riga
+436;407;sea;397;0;Fyn-Sjaelland
+369;407;sea;397;0;Fyn-Jylland
+270;284;sea;232;0;Bay of Holland
+140;159;sea;98;0;Channel Islands Strait
+371;352;sea;346;0;Sassari Strait
+621;627;sea;555;0;Corfu Strait
+696;726;sea;673;0;Cyclades Strait
+765;754;sea;673;0;Izmir Strait
+810;797;sea;746;0;Dardanelles Strait
+763;758;sea;746;0;Golden Horn
+506;535;sea;524;0;Strait of Messina
+506;535;sea;405;0;Strait of Messina
+639;645;sea;599;0;Ionian Islands Strait
+898;924;sea;877;0;Strait of Azov
+87;88;sea;53;0;Strait of Gibraltar
+195;219;sea;164;0;Calais-Canterbury
+
+#1;860;sea;1062;0;Around Africa
+1065;1;sea;1062;0;Around Africa
+1065;860;sea;1062;0;Around Africa
+
+
+860;1032;sea;1060;0;Around Arabia
+
+1;1062;impassable;0;0;scary mountain
+860;1060;impassable;0;0;scary mountain
+1032;1060;impassable;0;0;scary mountain
+1032;1063;impassable;0;0;scary mountain
+739;1064;impassable;0;0;scary mountain
+1025;1061;impassable;0;0;scary mountain
+1025;1063;impassable;0;0;scary mountain
+1060;1;impassable;0;0;scary mountain
+1063;1;impassable;0;0;scary mountain
+1063;3;impassable;0;0;scary mountain
+1063;4;impassable;0;0;scary mountain
+1061;4;impassable;0;0;scary mountain
+1061;5;impassable;0;0;scary mountain
+1061;6;impassable;0;0;scary mountain
+1061;7;impassable;0;0;scary mountain
+1064;7;impassable;0;0;scary mountain
+1064;8;impassable;0;0;scary mountain
+1064;9;impassable;0;0;scary mountain
+1064;11;impassable;0;0;scary mountain
+3;1061;impassable;0;0;scary mountain
+1065;1062;impassable;0;0;scary mountain
+
+263;397;canal;376;1;Kiel Canal
+806;860;canal;855;2;Suez Canal

@@ -1,0 +1,6 @@
+name = ".Big EU mod lol"
+path = "mod/BIG EU"
+user_dir = "BIG EU"
+replace_path = "history/pops/1836.1.1"
+replace_path = "events"
+replace_path = "decisions"

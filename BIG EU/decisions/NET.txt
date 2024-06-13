@@ -1,0 +1,102 @@
+political_decisions = {
+	sign_treaty_of_london = {
+		potential = {
+			tag = NET
+			exists = BEL
+			NOT = {
+				has_country_flag = signed_treay_of_london
+			}
+		}
+		allow = {
+			OR = { 
+				relation = {
+					who = ENG
+					value = 100
+				}
+				ENG = { 
+					diplomatic_influence = {
+						who = THIS
+						value = 50
+					}
+				}
+				ideological_thought = 1
+			}		
+		}
+		effect = {
+			remove_core = 257
+			remove_core = 237
+			remove_core = 249
+			remove_core = 262
+			remove_core = 281
+			remove_core = 267
+			remove_core = 245
+			remove_core = 254
+			remove_core = 280
+			remove_core = 293
+			remove_core = 279
+			prestige = 20
+			any_greater_power = {
+				limit = { 
+					NOT = { 
+						OR = {
+							tag = FRA
+							tag = ENG
+						}
+					}
+				}	
+				relation = {
+					who = THIS
+					value = 20
+				}
+			}
+			ENG = {
+				relation = {
+					who = THIS
+					value = 150
+				}
+			}
+			FRA = {
+				relation = {
+					who = THIS
+					value = 150
+				}
+			}
+			BEL = {
+				relation = {
+					who = THIS
+					value = 25
+				}
+			}
+			set_country_flag = signed_treay_of_london
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					year = 1839
+				}
+			}
+			modifier = {
+				factor = 0
+				war = yes
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					owns = 257
+					owns = 237
+					owns = 249
+					owns = 262
+					owns = 281
+					owns = 267
+					owns = 245
+					owns = 254
+					owns = 280
+					owns = 293
+					owns = 279
+				}
+			}
+		}
+	}
+}

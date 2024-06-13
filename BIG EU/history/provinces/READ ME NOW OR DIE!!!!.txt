@@ -1,0 +1,3 @@
+If you put any province history files in any of these folders except the "BIG EUROPE" folder the mod WILL NOT RUN.
+If you remove any province history files in any of these folders except the "BIG EUROPE" folder the mod WILL NOT RUN.
+If you edit any province history files in any of these folders except the "BIG EUROPE" folder the mod WILL NOT RUN.

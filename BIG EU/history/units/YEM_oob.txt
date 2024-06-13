@@ -1,0 +1,48 @@
+army = {
+name = "Army of the Zaidi Imams"
+location = 40
+regiment = {
+name= "1.Hashid"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Hashid"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "1.Bakil"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Bakil"
+type = irregular
+home = 40
+}
+}
+
+army = {
+name = "Armies of the Sheikhs of Aden"
+location = 40
+regiment = {
+name= "1.Abdali"
+type = irregular
+home = 40
+}
+}
+
+army = {
+name = "Army of the Sheikhs of Mukalla"
+location = 40
+
+regiment = {
+name= "2.Abdali"
+type = irregular
+home = 40
+}
+}

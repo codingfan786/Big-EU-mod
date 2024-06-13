@@ -1,0 +1,23 @@
+army = {
+name = "Army of the Principality of Wallachia"
+location = 767
+regiment = {
+name= "1st Wallachia Infantry"
+type = infantry
+home = 728
+}
+
+regiment = {
+name= "2nd Wallachia Infantry"
+type = infantry
+home = 756
+}
+
+regiment = {
+name= "3rd Wallachia Infantry"
+type = infantry
+home = 767
+}
+
+}
+

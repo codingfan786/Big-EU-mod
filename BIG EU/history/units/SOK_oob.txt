@@ -1,0 +1,62 @@
+army = {
+name = "Army of the Sultan of Sokoto"
+location = 40
+regiment = {
+name= "1.Fulbe"
+type = cavalry
+home = 40
+}
+
+regiment = {
+name= "2.Fulbe"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Fulbe"
+type = irregular
+home = 40
+}
+
+}
+
+army = {
+name = "Army of the Emir of Adamawa"
+location = 40
+regiment = {
+name= "4. Fulbe"
+type = cavalry
+home = 40
+}
+
+regiment = {
+name= "5. Fulbe"
+type = irregular
+home = 40
+}
+}
+
+army = {
+name = "Army of the Emir of Ilorin"
+location = 40
+regiment = {
+name= "1. Yoruba"
+type = cavalry
+home = 40
+}
+
+regiment = {
+name= "6. Fulbe"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "7. Fulbe"
+type = irregular
+home = 40
+}
+
+}
+

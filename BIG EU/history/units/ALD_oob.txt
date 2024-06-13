@@ -1,0 +1,81 @@
+army = {
+name = "Army of Abd el Kader"
+location = 170
+regiment = {
+name= "1.Askäris"
+type = irregular
+home = 170
+}
+
+regiment = {
+name= "2.Askäris"
+type = irregular
+home = 250
+}
+
+regiment = {
+name= "3.Askäris"
+type = irregular
+home = 152
+}
+
+regiment = {
+name= "1.Spahis"
+type = cavalry
+home = 152
+}
+
+regiment = {
+name= "2.Spahis"
+type = cavalry
+home = 162
+}
+
+regiment = {
+name= "3.Spahis"
+type = cavalry
+home = 207
+}
+
+}
+
+army = {
+name = "Army of the Bey of Constantine"
+location = 207
+regiment = {
+name= "4.Askäris"
+type = irregular
+home = 307
+}
+
+regiment = {
+name= "5.Askäris"
+type = irregular
+home = 206
+}
+
+regiment = {
+name= "6.Askäris"
+type = irregular
+home = 250
+}
+
+regiment = {
+name= "7.Askäris"
+type = irregular
+home = 206
+}
+
+regiment = {
+name= "3.Spahis"
+type = irregular
+home = 307
+}
+
+regiment = {
+name= "4.Spahis"
+type = irregular
+home = 287
+}
+
+}

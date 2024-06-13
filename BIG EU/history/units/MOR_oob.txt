@@ -1,0 +1,95 @@
+#Relations
+USA = {
+value = 75#relation
+}
+
+army = {
+name = "Army of the Sultan of Morocco"
+location = 85
+regiment = {
+name= "1. Infantry Brigade 'Askäria'"
+type = irregular
+home = 93
+}
+
+regiment = {
+name= "2. Infantry Brigade"
+type = irregular
+home = 85
+}
+
+regiment = {
+name= "3. Infantry Brigade"
+type = irregular
+home = 80
+}
+
+}
+
+army = {
+name = "Army of the Atlas"
+location = 127
+regiment = {
+name= "4. Infantry Brigade 'Ait 'Atta'"
+type = irregular
+home = 108
+}
+
+regiment = {
+name= "5. Infantry Brigade"
+type = irregular
+home = 102
+}
+
+regiment = {
+name= "6. Infantry Brigade 'Ait Mnad'"
+type = irregular
+home = 25
+}
+}
+
+army = {
+name = "Army of Sahara"
+location = 77
+regiment = {
+name= "7. Infantry Brigade 'Dawi Mani'"
+type = irregular
+home = 36
+}
+
+regiment = {
+name= "8. Infantry Brigade 'Sahrawi'"
+type = irregular
+home = 33
+}
+
+regiment = {
+name= "9. Infantry Brigade"
+type = irregular
+home = 48
+}
+
+}
+
+army = {
+name = "Army of the Rif"
+location = 84
+regiment = {
+name= "10. Infantry Brigade"
+type = irregular
+home = 84
+}
+
+regiment = {
+name= "11. Infantry Brigade"
+type = irregular
+home = 88
+}
+
+regiment = {
+name= "12. Infantry Brigade"
+type = irregular
+home = 66
+}
+
+}

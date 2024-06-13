@@ -1,0 +1,23 @@
+army = {
+name = "Army of the Rao of Indore"
+location = 40
+regiment = {
+name= "1.Indore Contingent"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Indore Contingent"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Indore Contingent"
+type = irregular
+home = 40
+}
+
+}
+
