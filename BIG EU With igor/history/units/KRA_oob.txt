@@ -1,0 +1,10 @@
+army = {
+name = "Armia Krakówiej"
+location = 609
+
+regiment = {
+name = "1. Brygada"
+type = infantry
+home = 609
+}
+}

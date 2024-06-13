@@ -1,0 +1,4 @@
+#Senegambia.txt includes modern Senegal and Gambia
+#Senegambia Region (444000)
+#uncolonized in 1836/ruled by Damel of Wolof
+#Dakar (8000/2000 POPS)

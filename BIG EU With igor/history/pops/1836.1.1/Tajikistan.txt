@@ -1,0 +1,3 @@
+#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
+#under the rule of Kokand in 1836  
+#Khujand (200000/50000 POPS) #now part of Tajikistan  

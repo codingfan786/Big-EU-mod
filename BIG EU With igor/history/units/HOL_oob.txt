@@ -1,0 +1,10 @@
+army = {
+name = "Holsteinische Armee"
+location = 376
+regiment = {
+name= "1. Schleswig-Hols. Landwehrbrigade"
+type = infantry
+home = 376
+}
+}
+

@@ -1,0 +1,23 @@
+army = {
+name = "Armata Principatul Moldovei"
+location = 780
+regiment = {
+name= "1. Infanterie Moldovei"
+type = infantry
+home = 775
+}
+
+regiment = {
+name= "2. Infanterie Moldovei"
+type = infantry
+home = 750
+}
+
+regiment = {
+name= "3. Infanterie Moldovei"
+type = infantry
+home = 780
+}
+
+}
+

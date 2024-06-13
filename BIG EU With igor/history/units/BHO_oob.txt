@@ -1,0 +1,23 @@
+army = {
+name = "Army of the Begum of Bhopal"
+location = 40
+regiment = {
+name= "1.Bhopal"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Bhopal"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Bhopal"
+type = irregular
+home = 40
+}
+
+}
+

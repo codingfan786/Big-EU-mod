@@ -1,0 +1,254 @@
+#From;To;Type;Through;Data;Comment
+
+865;851;sea;860;0;Suez strait
+
+#
+# European Straits  
+#
+79;96;sea;73;0;Irish Strait
+561;619;sea;570;0;Aland Strait #Uppsala to Aland #these were in V1
+457;436;sea;397;0;Öresund
+516;485;sea;474;0;Bornholmsfärjan
+619;662;sea;570;0;Aland Strait #Aland to Turku 
+675;708;sea;592;0;Öselsund
+675;666;sea;592;0;Strait of Riga
+436;407;sea;397;0;Fyn-Sjaelland
+369;407;sea;397;0;Fyn-Jylland
+270;284;sea;232;0;Bay of Holland
+140;159;sea;98;0;Channel Islands Strait
+371;352;sea;346;0;Sassari Strait
+621;627;sea;555;0;Corfu Strait
+696;726;sea;673;0;Cyclades Strait
+765;754;sea;673;0;Izmir Strait
+810;797;sea;746;0;Dardanelles Strait
+763;758;sea;746;0;Golden Horn
+506;535;sea;524;0;Strait of Messina
+506;535;sea;405;0;Strait of Messina
+639;645;sea;599;0;Ionian Islands Strait
+898;924;sea;877;0;Strait of Azov
+87;88;sea;53;0;Strait of Gibraltar
+195;219;sea;164;0;Calais-Canterbury
+
+#1;860;sea;1062;0;Around Africa
+1065;1;sea;1062;0;Around Africa
+1065;860;sea;1062;0;Around Africa
+
+
+860;1032;sea;1060;0;Around Arabia
+
+1;1062;impassable;0;0;scary mountain
+860;1060;impassable;0;0;scary mountain
+1032;1060;impassable;0;0;scary mountain
+1032;1063;impassable;0;0;scary mountain
+739;1064;impassable;0;0;scary mountain
+1025;1061;impassable;0;0;scary mountain
+1025;1063;impassable;0;0;scary mountain
+1060;1;impassable;0;0;scary mountain
+1063;1;impassable;0;0;scary mountain
+1063;3;impassable;0;0;scary mountain
+1063;4;impassable;0;0;scary mountain
+1061;4;impassable;0;0;scary mountain
+1061;5;impassable;0;0;scary mountain
+1061;6;impassable;0;0;scary mountain
+1061;7;impassable;0;0;scary mountain
+1064;7;impassable;0;0;scary mountain
+1064;8;impassable;0;0;scary mountain
+1064;9;impassable;0;0;scary mountain
+1064;11;impassable;0;0;scary mountain
+3;1061;impassable;0;0;scary mountain
+1065;1062;impassable;0;0;scary mountain
+
+263;397;canal;376;1;Kiel Canal
+806;860;canal;855;2;Suez Canal
+
+117;134;sea;0;0;x
+117;155;sea;0;0;x
+154;155;sea;0;0;x
+155;185;sea;0;0;x
+185;196;sea;0;0;x
+
+349;341;sea;0;0;x
+349;372;sea;0;0;x
+372;386;sea;0;0;x
+386;398;sea;0;0;x
+398;416;sea;0;0;x
+416;426;sea;0;0;x
+426;438;sea;0;0;x
+438;450;sea;0;0;x
+
+808;773;sea;0;0;x
+808;762;sea;0;0;x
+808;820;sea;0;0;x
+808;829;sea;0;0;x
+762;820;sea;0;0;x
+822;820;sea;0;0;x
+822;839;sea;0;0;x
+822;836;sea;0;0;x
+821;836;sea;0;0;x
+820;840;sea;0;0;x
+840;846;sea;0;0;x
+839;836;sea;0;0;x
+839;846;sea;0;0;x
+846;855;sea;0;0;x
+829;855;sea;0;0;x
+851;846;sea;0;0;x
+
+240;265;sea;0;0;x
+240;253;sea;0;0;x
+225;253;sea;0;0;x
+229;253;sea;0;0;x
+235;260;sea;0;0;x
+260;252;sea;0;0;x
+252;269;sea;0;0;x
+
+236;252;sea;0;0;x
+236;255;sea;0;0;x
+236;251;sea;0;0;x
+236;241;sea;0;0;x
+218;241;sea;0;0;x
+218;242;sea;0;0;x
+218;234;sea;0;0;x
+218;209;sea;0;0;x
+211;209;sea;0;0;x
+211;189;sea;0;0;x
+191;189;sea;0;0;x
+172;177;sea;0;0;x
+177;145;sea;0;0;x
+145;150;sea;0;0;x
+123;145;sea;0;0;x
+
+242;266;sea;0;0;x
+242;244;sea;0;0;x
+234;238;sea;0;0;x
+223;238;sea;0;0;x
+223;221;sea;0;0;x
+200;221;sea;0;0;x
+200;194;sea;0;0;x
+159;194;sea;0;0;x
+
+195;186;sea;0;0;x
+180;186;sea;0;0;x
+180;165;sea;0;0;x
+160;165;sea;0;0;x
+165;138;sea;0;0;x
+
+247;259;sea;0;0;x
+268;259;sea;0;0;x
+268;273;sea;0;0;x
+283;273;sea;0;0;x
+283;290;sea;0;0;x
+303;290;sea;0;0;x
+303;308;sea;0;0;x
+303;314;sea;0;0;x
+309;314;sea;0;0;x
+309;324;sea;0;0;x
+320;330;sea;0;0;x
+324;320;sea;0;0;x
+320;337;sea;0;0;x
+337;344;sea;0;0;x
+344;358;sea;0;0;x
+344;367;sea;0;0;x
+331;366;sea;0;0;x
+
+477;505;sea;0;0;x
+484;505;sea;0;0;x
+515;484;sea;0;0;x
+489;515;sea;0;0;x
+495;515;sea;0;0;x
+521;515;sea;0;0;x
+521;526;sea;0;0;x
+521;566;sea;0;0;x
+566;563;sea;0;0;x
+563;586;sea;0;0;x
+
+588;601;sea;0;0;x
+574;601;sea;0;0;x
+574;587;sea;0;0;x
+560;587;sea;0;0;x
+581;598;sea;0;0;x
+598;628;sea;0;0;x
+628;654;sea;0;0;x
+628;667;sea;0;0;x
+667;630;sea;0;0;x
+630;671;sea;0;0;x
+630;657;sea;0;0;x
+657;605;sea;0;0;x
+
+392;381;sea;0;0;x
+381;406;sea;0;0;x
+406;413;sea;0;0;x
+406;431;sea;0;0;x
+431;434;sea;0;0;x
+434;451;sea;0;0;x
+451;478;sea;0;0;x
+478;492;sea;0;0;x
+478;518;sea;0;0;x
+518;514;sea;0;0;x
+514;540;sea;0;0;x
+540;547;sea;0;0;x
+547;562;sea;0;0;x
+562;551;sea;0;0;x
+562;565;sea;0;0;x
+565;580;sea;0;0;x
+565;600;sea;0;0;x
+565;597;sea;0;0;x
+597;568;sea;0;0;x
+568;602;sea;0;0;x
+602;564;sea;0;0;x
+602;577;sea;0;0;x
+582;604;sea;0;0;x
+604;594;sea;0;0;x
+604;608;sea;0;0;x
+608;633;sea;0;0;x
+633;611;sea;0;0;x
+633;653;sea;0;0;x
+653;665;sea;0;0;x
+653;685;sea;0;0;x
+653;689;sea;0;0;x
+689;682;sea;0;0;x
+682;728;sea;0;0;x
+728;742;sea;0;0;x
+742;766;sea;0;0;x
+766;748;sea;0;0;x
+766;782;sea;0;0;x
+
+694;715;sea;0;0;x
+694;727;sea;0;0;x
+752;727;sea;0;0;x
+752;785;sea;0;0;x
+785;790;sea;0;0;x
+785;814;sea;0;0;x
+814;823;sea;0;0;x
+
+838;814;sea;0;0;x
+838;805;sea;0;0;x
+805;828;sea;0;0;x
+800;828;sea;0;0;x
+800;825;sea;0;0;x
+825;789;sea;0;0;x
+789;833;sea;0;0;x
+833;784;sea;0;0;x
+833;812;sea;0;0;x
+833;830;sea;0;0;x
+830;849;sea;0;0;x
+849;847;sea;0;0;x
+849;875;sea;0;0;x
+875;896;sea;0;0;x
+875;876;sea;0;0;x
+876;847;sea;0;0;x
+841;876;sea;0;0;x
+841;848;sea;0;0;x
+
+1066;474;impassable;0;0;x
+1066;592;impassable;0;0;x
+1066;817;impassable;0;0;x
+1066;786;impassable;0;0;x
+1066;806;impassable;0;0;x
+725;1066;impassable;0;0;x
+860;1066;impassable;0;0;x
+463;1066;impassable;0;0;x
+220;1066;impassable;0;0;x
+182;1066;impassable;0;0;x
+62;1066;impassable;0;0;x
+164;1066;impassable;0;0;x
+203;1066;impassable;0;0;x

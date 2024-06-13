@@ -1,0 +1,1065 @@
+PROV1;Canarian Sea;x
+PROV2;Canary Islands;x
+PROV3;Canary Approach;x
+PROV4;Iberian Shelf;x
+PROV5;Hatton Bank;x
+PROV6;Rockall;x
+PROV7;Northeastern Atlantic;x
+PROV8;Northern Atlantic #3;x
+PROV9;Coast of Iceland;x
+PROV10;Iceland;x
+PROV11;Icelandic Sea;x
+PROV12;Madeira;x
+PROV13;Coast of Morocco;x
+PROV14;Shetland Straits;x
+PROV15;Dingle Bay;x
+PROV16;Donegal Bay;x
+PROV17;Aaiun;x
+PROV18;Celtic Sea;x
+PROV19;Gulf of Cadiz;x
+PROV20;Tarfaya;x
+PROV21;Western Approaches;x
+PROV22;Lusitanian Sea;x
+PROV23;Finisterre Bay;x
+PROV24;Spitzberg Sea;x
+PROV25;Agadir;x
+PROV26;Limerick;x
+PROV27;Ifni;x
+PROV28;Galway;x
+PROV29;Cork;x
+PROV30;Sawira;x
+PROV31;Lisbon;x
+PROV32;North Channel;x
+PROV33;Safi;x
+PROV34;Coimbra;x
+PROV35;La Coruna;x
+PROV36;Marrakesh;x
+PROV37;Warzazat;x
+PROV38;Setubal;x
+PROV39;Sligo;x
+PROV40;Jan Mayen;x
+PROV41;Faro;x
+PROV42;Abrantes;x
+PROV43;Vigo;x
+PROV44;Oporto;x
+PROV45;Beja;x
+PROV46;Bay of Biscay;x
+PROV47;Donegal;x
+PROV48;Casablanca;x
+PROV49;Bir Murghayn;x
+PROV50;Tindouf;x
+PROV51;Evora;x
+PROV52;Cantabrian Sea;x
+PROV53;Straits of Gibraltar;x
+PROV54;Waterford;x
+PROV55;Covilha;x
+PROV56;St. George's Channel;x
+PROV57;Lands End;x
+PROV58;Londonderry;x
+PROV59;Kildare;x
+PROV60;Vila Real;x
+PROV61;Huribka;x
+PROV62;Coast of Britanny;x
+PROV63;Wexford;x
+PROV64;Huelva;x
+PROV65;Inverness;x
+PROV66;Rabat;x
+PROV67;Caceres;x
+PROV68;Faroe Islands;x
+PROV69;Chenachene;x
+PROV70;Badajoz;x
+PROV71;Dublin;x
+PROV72;Armagh;x
+PROV73;Irish Sea;x
+PROV74;Leon;x
+PROV75;Oviedo;x
+PROV76;Salamanca;x
+PROV77;Rashidia;x
+PROV78;Almendralejo;x
+PROV79;Belfast;x
+PROV80;Meknes;x
+PROV81;Seville;x
+PROV82;Stirling;x
+PROV83;Cadiz;x
+PROV84;Tangier;x
+PROV85;Wazzan;x
+PROV86;Plymouth;x
+PROV87;Gibraltar;x
+PROV88;Tetouan;x
+PROV89;Cordoba;x
+PROV90;Quiberon Bay;x
+PROV91;Malaga;x
+PROV92;Avila;x
+PROV93;Fez;x
+PROV94;Toledo;x
+PROV95;Valladolid;x
+PROV96;Glasgow;x
+PROV97;Cardigan;x
+PROV98;The Channel;x
+PROV99;Ciudad Real;x
+PROV100;Moray Firth;x
+PROV101;Jan Mayen Sea;x
+PROV102;Ajdir;x
+PROV103;Santander;x
+PROV104;Brest;x
+PROV105;Holyhead;x
+PROV106;Isle of Man;x
+PROV107;Dundee;x
+PROV108;Taza;x
+PROV109;Madrid;x
+PROV110;Dumfries;x
+PROV111;Cote D'Argent;x
+PROV112;Figuig;x
+PROV113;Granada;x
+PROV114;Jaen;x
+PROV115;Cardiff;x
+PROV116;Burgos;x
+PROV117;Soria;x
+PROV118;Aberdeen;x
+PROV119;Bechar;x
+PROV120;Bath;x
+PROV121;Llandrindod;x
+PROV122;Gulf of Almeira;x
+PROV123;Vannes;x
+PROV124;Edinburgh;x
+PROV125;Firth of Forth;x
+PROV126;Carlisle;x
+PROV127;Wujda;x
+PROV128;Siguenza;x
+PROV129;St Brieuc;x
+PROV130;BIlbao;x
+PROV131;Melilla;x
+PROV132;Liverpool;x
+PROV133;Almeria;x
+PROV134;Logrono;x
+PROV135;Shrewesbury;x
+PROV136;Chester;x
+PROV137;Albacete;x
+PROV138;Salisbury;x
+PROV139;Manchester;x
+PROV140;Channel Islands;x
+PROV141;Bristol;x
+PROV142;Coventry;x
+PROV143;Newcastle On Tyne;x
+PROV144;Cuenca;x
+PROV145;Nantes;x
+PROV146;Birmingham;x
+PROV147;Pamplona;x
+PROV148;Leeds;x
+PROV149;Murcia;x
+PROV150;Rennes;x
+PROV151;Tyne;x
+PROV152;Tlemcen;x
+PROV153;Cartagena;x
+PROV154;Teruel;x
+PROV155;Zaragoza;x
+PROV156;La Roche;x
+PROV157;Sheffield;x
+PROV158;Nottingham;x
+PROV159;Caen;x
+PROV160;Southampton;x
+PROV161;Hull;x
+PROV162;Naama;x
+PROV163;Pau;x
+PROV164;Straits of Dover;x
+PROV165;Oxford;x
+PROV166;La Rochelle;x
+PROV167;Leicester;x
+PROV168;Valencia;x
+PROV169;Bordeaux;x
+PROV170;Mascara;x
+PROV171;Huesca;x
+PROV172;Angers;x
+PROV173;Timimoun;x
+PROV174;Oran;x
+PROV175;Alicante;x
+PROV176;Mont de Marsan;x
+PROV177;Laval;x
+PROV178;Alencon;x
+PROV179;St Albans;x
+PROV180;Brighton;x
+PROV181;In Salah;x
+PROV182;Gulf of Valencia;x
+PROV183;Lincoln;x
+PROV184;Cambridge;x
+PROV185;Castellon;x
+PROV186;London;x
+PROV187;Tin Zawatene;x
+PROV188;Angouleme;x
+PROV189;Le Mans;x
+PROV190;Poitiers;x
+PROV191;Tours;x
+PROV192;Chelmsford;x
+PROV193;Mustaghanim;x
+PROV194;Rouen;x
+PROV195;Canterbury;x
+PROV196;Tarragona;x
+PROV197;Tulle;x
+PROV198;Ipswich;x
+PROV199;Montauban;x
+PROV200;Evreux;x
+PROV201;Lerida;x
+PROV202;Toulouse;x
+PROV203;Dogger Bank;x
+PROV204;Foix;x
+PROV205;Barbary Coast;x
+PROV206;Medea;x
+PROV207;Laghwat;x
+PROV208;Limoges;x
+PROV209;Chartres;x
+PROV210;The North Sea;x
+PROV211;Blois;x
+PROV212;Cahors;x
+PROV213;Chateauroux;x
+PROV214;Amiens;x
+PROV215;Balearic Islands;x
+PROV216;Gulf of Mallocra;x
+PROV217;Barcelona;x
+PROV218;Orleans;x
+PROV219;Dunkirk;x
+PROV220;Gulf of Lion;x
+PROV221;Beauvais;x
+PROV222;Gerona;x
+PROV223;Paris;x
+PROV224;Perpignan;x
+PROV225;Rodez;x
+PROV226;Arras;x
+PROV227;Southern Norwegian Sea;x
+PROV228;Carcassone;x
+PROV229;Aurillac;x
+PROV230;Bourges;x
+PROV231;Lille;x
+PROV232;Coast of Holland;x
+PROV233;Algiers;x
+PROV234;Melun;x
+PROV235;Clermont-Ferrand;x
+PROV236;Moulins;x
+PROV237;Bruges;x
+PROV238;Laon;x
+PROV239;Ouargla;x
+PROV240;Montpellier;x
+PROV241;Auxerre;x
+PROV242;Troyes;x
+PROV243;Cambrai;x
+PROV244;Chalons;x
+PROV245;Tournai;x
+PROV246;Tamanrasset;x
+PROV247;Middelburg;x
+PROV248;Northern Norwegian Sea;x
+PROV249;Ghent;x
+PROV250;Setif;x
+PROV251;Dijon;x
+PROV252;St Etienne;x
+PROV253;Avignon;x
+PROV254;Charleroi;x
+PROV255;Macon;x
+PROV256;Charleville;x
+PROV257;Brussels;x
+PROV258;Bougie;x
+PROV259;Rotterdam;x
+PROV260;Valence;x
+PROV261;Ilizi;x
+PROV262;Antwerp;x
+PROV263;Helgoland Bight;x
+PROV264;Skagerrack;x
+PROV265;Marseilles;x
+PROV266;Chaumont;x
+PROV267;Namur;x
+PROV268;Breda;x
+PROV269;Lyon;x
+PROV270;Amsterdam;x
+PROV271;Nancy;x
+PROV272;Verdun;x
+PROV273;Utrecht;x
+PROV274;Lons;x
+PROV275;Bergen;x
+PROV276;Cape Bon;x
+PROV277;Western Mediterranean;x
+PROV278;Cote D'Azur;x
+PROV279;Arlon;x
+PROV280;Liege;x
+PROV281;Hasselt;x
+PROV282;Grenoble;x
+PROV283;Eindhoven;x
+PROV284;Leeuwarden;x
+PROV285;Christiansand;x
+PROV286;Tuggurt;x
+PROV287;Biskra;x
+PROV288;Alesund;x
+PROV289;Besancon;x
+PROV290;Arnhem;x
+PROV291;Toulon;x
+PROV292;Chambery;x
+PROV293;Spa;x
+PROV294;Maastricht;x
+PROV295;Annency;x
+PROV296;Luxembourg;x
+PROV297;Digne;x
+PROV298;Zwolle;x
+PROV299;Geneva;x
+PROV300;Metz;x
+PROV301;Epinal;x
+PROV302;Aachen;x
+PROV303;Kleves;x
+PROV304;Trier;x
+PROV305;Assen;x
+PROV306;Groningen;x
+PROV307;Constantine;x
+PROV308;Munster;x
+PROV309;Cologne;x
+PROV310;Saarbrucken;x
+PROV311;Frejus;x
+PROV312;Neuchatel;x
+PROV313;Turin;x
+PROV314;Dusseldorf;x
+PROV315;Lingen;x
+PROV316;Aosta;x
+PROV317;Bone;x
+PROV318;Sitten;x
+PROV319;Basel;x
+PROV320;Kreuznach;x
+PROV321;Skien;x
+PROV322;Nice;x
+PROV323;Strasbourg;x
+PROV324;Siegburg;x
+PROV325;Bern;x
+PROV326;Colmar;x
+PROV327;Emden;x
+PROV328;Dortmund;x
+PROV329;Kattegat;x
+PROV330;Koblenz;x
+PROV331;Kaiserlautern;x
+PROV332;Lillehammer;x
+PROV333;Tozeur;x
+PROV334;Drammen;x
+PROV335;Savona;x
+PROV336;Freiburg;x
+PROV337;Wiesbaden;x
+PROV338;Siegen;x
+PROV339;Osnabruck;x
+PROV340;Cloppenburg;x
+PROV341;Novara;x
+PROV342;Lucern;x
+PROV343;Karlsruhe;x
+PROV344;Mainz;x
+PROV345;Oldenburg;x
+PROV346;Ligurian Sea;x
+PROV347;Heligoland;x
+PROV348;Gafsa;x
+PROV349;Alessandria;x
+PROV350;Korbach;x
+PROV351;Minden;x
+PROV352;Sassari;x
+PROV353;Esbjerg;x
+PROV354;Ribe;x
+PROV355;Aalborg;x
+PROV356;Bizerte;x
+PROV357;Zurich;x
+PROV358;Frankfurt;x
+PROV359;Flensburg;x
+PROV360;Trondheim;x
+PROV361;Tubingen;x
+PROV362;Nienburg;x
+PROV363;Cagliari;x
+PROV364;Konstanz;x
+PROV365;Lugano;x
+PROV366;Mannheim;x
+PROV367;Darmstadt;x
+PROV368;Bremen;x
+PROV369;Abenra;x
+PROV370;Stade;x
+PROV371;Corsica;x
+PROV372;Milan;x
+PROV373;Giessen;x
+PROV374;Detmold;x
+PROV375;Sigmaringen;x
+PROV376;Kiel;x
+PROV377;Genoa;x
+PROV378;Heilbronn;x
+PROV379;Chur;x
+PROV380;Hanover;x
+PROV381;Stuttgart;x
+PROV382;Bergamo;x
+PROV383;Aschaffenburg;x
+PROV384;Fulda;x
+PROV385;Kassel;x
+PROV386;Parma;x
+PROV387;Brunswick;x
+PROV388;Ghadamis;x
+PROV389;Luneburg;x
+PROV390;Ghat;x
+PROV391;Gabes;x
+PROV392;Ulm;x
+PROV393;Hamburg;x
+PROV394;Aarhus;x
+PROV395;Tunis;x
+PROV396;Gottingen;x
+PROV397;Öresund;x
+PROV398;Brescia;x
+PROV399;Bregenz;x
+PROV400;Tyrrenean Sea;x
+PROV401;Wurzburg;x
+PROV402;Hamar;x
+PROV403;Kairouan;x
+PROV404;Massa;x
+PROV405;Bay of Naples;x
+PROV406;Augsburg;x
+PROV407;Odense;x
+PROV408;Erfurt;x
+PROV409;Gotha;x
+PROV410;Lauenburg;x
+PROV411;Gulf of Gabes;x
+PROV412;Leghorn;x
+PROV413;Nuremburg;x
+PROV414;Lucca;x
+PROV415;Innsbruck;x
+PROV416;Modena;x
+PROV417;Meiningen;x
+PROV418;Lubeck;x
+PROV419;Christiania;x
+PROV420;Lofoten Sea;x
+PROV421;Trent;x
+PROV422;Bozen;x
+PROV423;Bayreuth;x
+PROV424;Schwerin;x
+PROV425;Grosetto;x
+PROV426;Verona;x
+PROV427;Florence;x
+PROV428;Magdeburg;x
+PROV429;Stendal;x
+PROV430;Frederiksstad;x
+PROV431;Ingolstadt;x
+PROV432;Siena;x
+PROV433;Bologna;x
+PROV434;Munich;x
+PROV435;Weimar;x
+PROV436;Copenhagen;x
+PROV437;Gothenburg;x
+PROV438;Ferrara;x
+PROV439;Treviso;x
+PROV440;Pritzwalk;x
+PROV441;Tripoli;x
+PROV442;Viterbo;x
+PROV443;Regensburg;x
+PROV444;Dessau;x
+PROV445;Ghayran;x
+PROV446;Malta Channel;x
+PROV447;Ravenna;x
+PROV448;Halle;x
+PROV449;Karlstad;x
+PROV450;Padua;x
+PROV451;Landshut;x
+PROV452;Rome;x
+PROV453;Bodo;x
+PROV454;Sabha;x
+PROV455;Perugia;x
+PROV456;Chemnitz;x
+PROV457;Malmo;x
+PROV458;Boras;x
+PROV459;Ostersund;x
+PROV460;Venice;x
+PROV461;Ancona;x
+PROV462;Salzburg;x
+PROV463;Gulf of Venice;x
+PROV464;Lienz;x
+PROV465;Karlsbad;x
+PROV466;Leipzig;x
+PROV467;Vänern;x
+PROV468;Falun;x
+PROV469;Berlin;x
+PROV470;Udine;x
+PROV471;Palermo;x
+PROV472;Plzen;x
+PROV473;Stralsund;x
+PROV474;Southern Baltic Sea;x
+PROV475;Neustrelitz;x
+PROV476;Klagenfurt;x
+PROV477;Swinemunde;x
+PROV478;Linz;x
+PROV479;Aquila;x
+PROV480;Vaxjo;x
+PROV481;Gaeta;x
+PROV482;Gorizia;x
+PROV483;Dresden;x
+PROV484;Prenzlau;x
+PROV485;Karlskrona;x
+PROV486;Murzuk;x
+PROV487;Trieste;x
+PROV488;Postojna;x
+PROV489;Cottbus;x
+PROV490;Prague;x
+PROV491;Pola;x
+PROV492;Budejovice;x
+PROV493;Aussig;x
+PROV494;Judenburg;x
+PROV495;Gorlitz;x
+PROV496;Adriatic Sea;x
+PROV497;Ljubljana;x
+PROV498;Misratah;x
+PROV499;Naples;x
+PROV500;Catania;x
+PROV501;Fiume;x
+PROV502;Vättern;x
+PROV503;Malta;x
+PROV504;Foggia;x
+PROV505;Stettin;x
+PROV506;Messina;x
+PROV507;Orebro;x
+PROV508;Waddan;x
+PROV509;Umea;x
+PROV510;Salerno;x
+PROV511;Norrkoping;x
+PROV512;Senj;x
+PROV513;Karlovac;x
+PROV514;Sankt Polten;x
+PROV515;Kustrin;x
+PROV516;Bornholm;x
+PROV517;Maribor;x
+PROV518;Krems;x
+PROV519;Gavle;x
+PROV520;Sundsvall;x
+PROV521;Liegnitz;x
+PROV522;Graz;x
+PROV523;Zadar;x
+PROV524;Straits of Messina;x
+PROV525;Hradec Kralove;x
+PROV526;Breslau;x
+PROV527;Kolberg;x
+PROV528;Brno;x
+PROV529;Potenza;x
+PROV530;Zagreb;x
+PROV531;Kalmar;x
+PROV532;Lulea;x
+PROV533;Sirt;x
+PROV534;Vasteras;x
+PROV535;Reggio di Calabria;x
+PROV536;Hammerfest;x
+PROV537;Sisak;x
+PROV538;Catanzaro;x
+PROV539;Bihac;x
+PROV540;Vienna;x
+PROV541;Posen;x
+PROV542;Split;x
+PROV543;Varadzin;x
+PROV544;Koslin;x
+PROV545;Gulf of Sirte;x
+PROV546;Bari;x
+PROV547;Eisenstadt;x
+PROV548;Deutsch Krone;x
+PROV549;Straits of Otranto;x
+PROV550;Zalaegerszeg;x
+PROV551;Sopron;x
+PROV552;Livno;x
+PROV553;Banja Luka;x
+PROV554;Western Baltic Sea;x
+PROV555;Gulf of Taranto;x
+PROV556;Bjelovar;x
+PROV557;Dubrovnik;x
+PROV558;Brindisi;x
+PROV559;Olomouc;x
+PROV560;Bromberg;x
+PROV561;Uppsala;x
+PROV562;Bratislava;x
+PROV563;Troppau;x
+PROV564;Kaposvar;x
+PROV565;Gyor;x
+PROV566;Oppeln;x
+PROV567;Pozega;x
+PROV568;Szekesfehevar;x
+PROV569;Gniezno;x
+PROV570;Ålands Hav;x
+PROV571;Sarajevo;x
+PROV572;Mostar;x
+PROV573;Lake Balaton;x
+PROV574;Tuchel;x
+PROV575;Stockholm;x
+PROV576;Kufra;x
+PROV577;Pecs;x
+PROV578;Trencin;x
+PROV579;Kalisz;x
+PROV580;Nitra;x
+PROV581;Skierniewicz;x
+PROV582;Osijek;x
+PROV583;Tuzla;x
+PROV584;Tesin;x
+PROV585;Gotland;x
+PROV586;Kattowitz;x
+PROV587;Torun;x
+PROV588;Danzig;x
+PROV589;Foca;x
+PROV590;Kotor;x
+PROV591;Niksic;x
+PROV592;Gulf of Riga;x
+PROV593;Cetinje;x
+PROV594;Vukovar;x
+PROV595;Bielsko;x
+PROV596;Lodz;x
+PROV597;Budapest;x
+PROV598;Plock;x
+PROV599;Ionian Sea;x
+PROV600;Miskolc;x
+PROV601;Elbing;x
+PROV602;Kecskemet;x
+PROV603;Banska Bystrica;x
+PROV604;Novi Sad;x
+PROV605;Kielce;x
+PROV606;Pljevlja;x
+PROV607;Ulcinj;x
+PROV608;Mitrovica;x
+PROV609;Krakow;x
+PROV610;Gulf of Bothnia;x
+PROV611;Belgrade;x
+PROV612;Vlore;x
+PROV613;Novi Pazar;x
+PROV614;Shkoder;x
+PROV615;Uzice;x
+PROV616;Tarnow;x
+PROV617;Durres;x
+PROV618;Novy Sacz;x
+PROV619;Aland Islands;x
+PROV620;Benghazi;x
+PROV621;Corfu;x
+PROV622;Tirana;x
+PROV623;Szeged;x
+PROV624;Roznava;x
+PROV625;Allenstein;x
+PROV626;Gulf of Tobruk;x
+PROV627;Gjirokaster;x
+PROV628;Warsaw;x
+PROV629;Konigsburg;x
+PROV630;Radom;x
+PROV631;Bekescsaba;x
+PROV632;Prizren;x
+PROV633;Pancevo;x
+PROV634;Janina;x
+PROV635;Kragujevac;x
+PROV636;Jaghbub;x
+PROV637;Temesvar;x
+PROV638;Darna;x
+PROV639;Zante;x
+PROV640;Pristina;x
+PROV641;Kosice;x
+PROV642;Bitola;x
+PROV643;Tornio;x
+PROV644;Nis;x
+PROV645;Missolonghi;x
+PROV646;Florina;x
+PROV647;Arta;x
+PROV648;Grevena;x
+PROV649;Debrecen;x
+PROV650;Liepaja;x
+PROV651;Memel;x
+PROV652;Patras;x
+PROV653;Bor;x
+PROV654;Lomza;x
+PROV655;Palanga;x
+PROV656;Vaasa;x
+PROV657;Przemysl;x
+PROV658;Trikkala;x
+PROV659;Lamia;x
+PROV660;Skopje;x
+PROV661;Oradea;x
+PROV662;Turku;x
+PROV663;Kalamata;x
+PROV664;Leskovac;x
+PROV665;Resicabanya;x
+PROV666;Ventspils;x
+PROV667;Siedlice;x
+PROV668;Gumbinnen;x
+PROV669;Siauliai;x
+PROV670;Edessa;x
+PROV671;Lublin;x
+PROV672;Nafplion;x
+PROV673;Aegean Sea;x
+PROV674;Larisa;x
+PROV675;Kuressaare;x
+PROV676;Gulf of Finland;x
+PROV677;Amfissa;x
+PROV678;Uzgorord;x
+PROV679;Szatmar;x
+PROV680;Salonika;x
+PROV681;Corinth;x
+PROV682;Vidin;x
+PROV683;Volos;x
+PROV684;Sofia;x
+PROV685;Tirgu Jiu;x
+PROV686;Deva;x
+PROV687;Bialystock;x
+PROV688;Suwalki;x
+PROV689;Craiova;x
+PROV690;Cluj;x
+PROV691;Marijampole;x
+PROV692;Gyulafehervar;x
+PROV693;Stryi;x
+PROV694;Jelgava;x
+PROV695;Helsinki;x
+PROV696;Khalkis;x
+PROV697;Polygyros;x
+PROV698;Petrich;x
+PROV699;Tobruk;x
+PROV700;Lvov;x
+PROV701;Tampere;x
+PROV702;Kavala;x
+PROV703;Sea of Crete;x
+PROV704;Athens;x
+PROV705;Brest-Litovsk;x
+PROV706;Beszterce;x
+PROV707;Panevezys;x
+PROV708;Reval;x
+PROV709;Chania;x
+PROV710;Nagyszeben;x
+PROV711;Grodno;x
+PROV712;Hameenlinna;x
+PROV713;Stanislavov;x
+PROV714;Kovel;x
+PROV715;Riga;x
+PROV716;Parnu;x
+PROV717;Oulu;x
+PROV718;Plovdiv;x
+PROV719;Vilnius;x
+PROV720;Kaunas;x
+PROV721;Targu Mures;x
+PROV722;Pleven;x
+PROV723;Stara Zagora;x
+PROV724;Tirgoviste;x
+PROV725;Bay of Alexandrian;x
+PROV726;Cyclades;x
+PROV727;Valmiera;x
+PROV728;Bucharest;x
+PROV729;Brasso;x
+PROV730;Pinsk;x
+PROV731;Baranovichi;x
+PROV732;Ternopil;x
+PROV733;Xanthe;x
+PROV734;Siwa;x
+PROV735;Iraklion;x
+PROV736;Lida;x
+PROV737;Suceava;x
+PROV738;Cernauti;x
+PROV739;White Sea;x
+PROV740;Hariga;x
+PROV741;Myteline;x
+PROV742;Ruse;x
+PROV743;Sidi Barrani;x
+PROV744;Udvarhely;x
+PROV745;Rovne;x
+PROV746;Sea of Marmara;x
+PROV747;Dedeagatch;x
+PROV748;Shumen;x
+PROV749;Edirne;x
+PROV750;Bacau;x
+PROV751;Pastavy;x
+PROV752;Daugavpils;x
+PROV753;Mikkeli;x
+PROV754;Chios;x
+PROV755;Narva;x
+PROV756;Braila;x
+PROV757;Botosani;x
+PROV758;Canakkale;x
+PROV759;Dorpat;x
+PROV760;Proskorov;x
+PROV761;Kuopio;x
+PROV762;Bawiti;x
+PROV763;Gallipoli;x
+PROV764;Dodecanese;x
+PROV765;Izmir;x
+PROV766;Silistre;x
+PROV767;Calarasi;x
+PROV768;Kotka;x
+PROV769;Burgas;x
+PROV770;Balti;x
+PROV771;Balikesir;x
+PROV772;Slutsk;x
+PROV773;Matruh;x
+PROV774;Kirklareli;x
+PROV775;Iasi;x
+PROV776;Minsk;x
+PROV777;Peipsi Järv;x
+PROV778;Kajaani;x
+PROV779;Manisa;x
+PROV780;Galati;x
+PROV781;Mugla;x
+PROV782;Varna;x
+PROV783;Constanta;x
+PROV784;Korosten;x
+PROV785;Pskov;x
+PROV786;Gulf of Varna;x
+PROV787;Gdov;x
+PROV788;Vinnitsa;x
+PROV789;Mozyr;x
+PROV790;Polotsk;x
+PROV791;Chisinau;x
+PROV792;Viipuri;x
+PROV793;Mut;x
+PROV794;Tulcea;x
+PROV795;Bursa;x
+PROV796;Zhitomir;x
+PROV797;Istanbul;x
+PROV798;Izmail;x
+PROV799;Luga;x
+PROV800;Mogilev;x
+PROV801;Petsamo;x
+PROV802;Kandalaksha;x
+PROV803;Denizli;x
+PROV804;Kutahya;x
+PROV805;Vitebsk;x
+PROV806;Palestinian Coast;x
+PROV807;Pervomaisk;x
+PROV808;Alexandria;x
+PROV809;St Petersburg;x
+PROV810;Uskudar;x
+PROV811;Kostomushka;x
+PROV812;Kiev;x
+PROV813;Antalya;x
+PROV814;Velikiye Luki;x
+PROV815;Burdur;x
+PROV816;Izmit;x
+PROV817;Gulf of Odessa;x
+PROV818;Afyon;x
+PROV819;Odessa;x
+PROV820;Tanta;x
+PROV821;Fayyum;x
+PROV822;Giza;x
+PROV823;Novgorod;x
+PROV824;Eskishehir;x
+PROV825;Gomel;x
+PROV826;Ladoga;x
+PROV827;Gulf of Cyprus;x
+PROV828;Orsha;x
+PROV829;Dumyat;x
+PROV830;Cherkassy;x
+PROV831;Asyut;x
+PROV832;Bolu;x
+PROV833;Chernigov;x
+PROV834;Kola;x
+PROV835;Minya;x
+PROV836;Bani Suwayf;x
+PROV837;Ankara;x
+PROV838;Smolensk;x
+PROV839;Cairo;x
+PROV840;Mansura;x
+PROV841;Nikolaev;x
+PROV842;Stara Ladoga;x
+PROV843;Suhaj;x
+PROV844;Konya;x
+PROV845;Bryansk;x
+PROV846;Ziqaziq;x
+PROV847;Krivoy Rog;x
+PROV848;Cherson;x
+PROV849;Poltava;x
+PROV850;Borovichi;x
+PROV851;Ras Gharib;x
+PROV852;Petrozavorsk;x
+PROV853;Luxor;x
+PROV854;Tikhvin;x
+PROV855;Suez Canal;x
+PROV856;Rzhev;x
+PROV857;Qina;x
+PROV858;Kastamonu;x
+PROV859;Limassol;x
+PROV860;Gulf of Suez;x
+PROV861;Povyents;x
+PROV862;Mersin;x
+PROV863;Simferopol;x
+PROV864;Qusayr;x
+PROV865;Al Arish;x
+PROV866;Sharm al-Shaykh;x
+PROV867;Nicosia;x
+PROV868;Eastern Black Sea;x
+PROV869;Famagusta;x
+PROV870;Peremyshl;x
+PROV871;Staritsa;x
+PROV872;Kursk;x
+PROV873;Vyazma;x
+PROV874;Sevastopol;x
+PROV875;Ekaterinoslav;x
+PROV876;Melitopol;x
+PROV877;Sea of Azov;x
+PROV878;Onega;x
+PROV879;Amasya;x
+PROV880;Kayseri;x
+PROV881;Gaza;x
+PROV882;Orel;x
+PROV883;Beersheba;x
+PROV884;Sinop;x
+PROV885;Tver;x
+PROV886;Jaffa;x
+PROV887;Tabuk;x
+PROV888;Adana;x
+PROV889;Belozersk;x
+PROV890;Jerusalem;x
+PROV891;Acre;x
+PROV892;Aqaba;x
+PROV893;Nablus;x
+PROV894;Kaluga;x
+PROV895;Sidon;x
+PROV896;Kramatorsk;x
+PROV897;Borodino;x
+PROV898;Kerch;x
+PROV899;Onega;x
+PROV900;Amman;x
+PROV901;Beirut;x
+PROV902;Belgorod;x
+PROV903;Maan;x
+PROV904;Sivas;x
+PROV905;Jerash;x
+PROV906;Damascus;x
+PROV907;Baalbeck;x
+PROV908;Askaleh;x
+PROV909;Latakia;x
+PROV910;Antioch;x
+PROV911;Marash;x
+PROV912;Kharkov;x
+PROV913;Vyterga;x
+PROV914;Tula;x
+PROV915;Suwayda;x
+PROV916;Yuzovka;x
+PROV917;Ruwayshid;x
+PROV918;Homs;x
+PROV919;Moscow;x
+PROV920;Aleppo;x
+PROV921;Antep;x
+PROV922;Kaf;x
+PROV923;Hama;x
+PROV924;Novorossiysk;x
+PROV925;Giresun;x
+PROV926;Medina;x
+PROV927;Vladimir;x
+PROV928;Mariopol;x
+PROV929;Palmyra;x
+PROV930;Malatya;x
+PROV931;Urfa;x
+PROV932;Voronets;x
+PROV933;Yaroslavl;x
+PROV934;Ekaterinodar;x
+PROV935;Dayr al-Zour;x
+PROV936;Ryazan;x
+PROV937;Luhansk;x
+PROV938;Vologda;x
+PROV939;Rostov;x
+PROV940;Erzincan;x
+PROV941;Azov;x
+PROV942;Rutbah;x
+PROV943;Adygei;x
+PROV944;Hail;x
+PROV945;Archangel;x
+PROV946;Diyarbakir;x
+PROV947;Trabzon;x
+PROV948;Tambov;x
+PROV949;Migolinskaya;x
+PROV950;Erzurum;x
+PROV951;Uglich;x
+PROV952;Bitlis;x
+PROV953;Sukhumi;x
+PROV954;Ivanovo;x
+PROV955;Chirskaya;x
+PROV956;Rafha;x
+PROV957;Kostorma;x
+PROV958;Stavropol;x
+PROV959;Samarra;x
+PROV960;Ardahan;x
+PROV961;Mosul;x
+PROV962;Hakkari;x
+PROV963;Batum;x
+PROV964;Poti;x
+PROV965;Tsaritsyn;x
+PROV966;Kutaisi;x
+PROV967;Nizhni Novgorod;x
+PROV968;Kars;x
+PROV969;Penza;x
+PROV970;Lake Van;x
+PROV971;Van;x
+PROV972;Kotlas;x
+PROV973;Pyatigorsk;x
+PROV974;Galich;x
+PROV975;Akhaltsikhe;x
+PROV976;Karbala;x
+PROV977;Saratov;x
+PROV978;Arbil;x
+PROV979;Najaf;x
+PROV980;Elitsa;x
+PROV981;Vetluga;x
+PROV982;Kirkuk;x
+PROV983;Pasanauri;x
+PROV984;Kanin;x
+PROV985;Vladikavkaz;x
+PROV986;Gyumri;x
+PROV987;Erivan;x
+PROV988;Ust Sysolsk;x
+PROV989;Baghdad;x
+PROV990;Khvoy;x
+PROV991;Tblisi;x
+PROV992;Mezen;x
+PROV993;Mendeli;x
+PROV994;Grozny;x
+PROV995;Urumia;x
+PROV996;Zarevka;x
+PROV997;Kut;x
+PROV998;Nakhichevan;x
+PROV999;Lake Urmia;x
+PROV1000;Ganja;x
+PROV1001;Simbirsk;x
+PROV1002;Kapan;x
+PROV1003;Kizylyar;x
+PROV1004;Novo Uzensk;x
+PROV1005;Mahabad;x
+PROV1006;Kermanshah;x
+PROV1007;Tabriz;x
+PROV1008;Syzran;x
+PROV1009;Sanandaj;x
+PROV1010;Agdam;x
+PROV1011;Riyadh;x
+PROV1012;Gunib;x
+PROV1013;Nasiriyya;x
+PROV1014;Ilam;x
+PROV1015;Vyatkha;x
+PROV1016;Kazan;x
+PROV1017;Sheki;x
+PROV1018;Astrakhan;x
+PROV1019;Ardabil;x
+PROV1020;Kuwait;x
+PROV1021;Derbent;x
+PROV1022;Guryev;x
+PROV1023;Qatif;x
+PROV1024;Khoramabad;x
+PROV1025;Caspian Sea;x
+PROV1026;Busuluk;x
+PROV1027;Zanjan;x
+PROV1028;Basra;x
+PROV1029;Hufuf;x
+PROV1030;Ahvaz;x
+PROV1031;Hamadan;x
+PROV1032;Persian Gulf;x
+PROV1033;Dezful;x
+PROV1034;Baku;x
+PROV1035;Siyazen;x
+PROV1036;Lankaran;x
+PROV1037;Abadan;x
+PROV1038;Samara;x
+PROV1039;Naryn Mar;x
+PROV1040;Rasht;x
+PROV1041;Oral;x
+PROV1042;Qazvin;x
+PROV1043;Arak;x
+PROV1044;Chistopol;x
+PROV1045;Sarapol;x
+PROV1046;Qom;x
+PROV1047;Dehkord;x
+PROV1048;Isfahan;x
+PROV1049;Tehran;x
+PROV1050;Usogorsk;x
+PROV1051;Bahrain;x
+PROV1052;Noshehr;x
+PROV1053;Bushire;x
+PROV1054;Glasov;x
+PROV1055;Aqtau;x
+PROV1056;Shiraz;x
+PROV1057;Kashan;x
+PROV1058;Doha;x
+PROV1059;Izma;x
+PROV1060;No Man's Sea;x
+PROV1061;No Man's Sea;x
+PROV1062;No Man's Sea;x
+PROV1063;No Man's Sea;x
+PROV1064;No Man's Sea;x
+PROV1065;Around Africa;x

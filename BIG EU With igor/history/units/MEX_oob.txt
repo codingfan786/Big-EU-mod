@@ -1,0 +1,134 @@
+leader = {
+name = "Antonio Santa Ana"
+type = land
+date="1836.1.1"
+personality = defence_1.1
+background = attack_1.1
+prestige = 0.2
+}
+
+leader = {
+name = "Martin de Cos"
+type = land
+date="1836.1.1"
+personality = defence_1.1
+background = attack_1.1
+prestige = 0.1
+}
+
+leader = {
+name = "Nicolas Bravo"
+type = land
+date="1836.1.1"
+personality = defence_1.1
+background = attack_1.1
+}
+
+leader = {
+name = "Mariano Arista"
+type = land
+date="1836.1.1"
+personality = defence_1.1
+background = attack_1.1
+}
+
+leader = {
+name = "Juan Álvarez"
+type = land
+date="1836.1.1"
+personality = defence_1.1
+background = attack_1.1
+}
+
+leader = {
+name = "José de Herrera"
+type = land
+date="1836.1.1"
+personality = defence_1.1
+background = attack_1.1
+}
+
+army = {
+name = "Ejército del Norte"
+location = 40
+regiment = {
+name= "1.Division Cos"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Division Cos"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Division Cos"
+type = irregular
+home = 40
+}
+
+}
+
+army = {
+name = "Activo Oajaca"
+location = 40
+regiment = {
+name= "1.Oajaca y Tlaxcala"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.Oajaca y Tlaxcala"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Oajaca y Tlaxcala"
+type = irregular
+home = 40
+}
+
+}
+
+army = {
+name = "Ejército del Ciudad Mejico"
+location = 40
+regiment = {
+name= "1.Division Comonfort"
+type = infantry
+home = 40
+}
+
+regiment = {
+name= "2.Division Comonfort"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.Division Comonfort"
+type = irregular
+home = 40
+}
+
+}
+
+navy = {
+name = "Armada de Mexico"
+location = 40
+ship = {
+name= "Vencedor del Alamo"
+type = frigate
+}
+
+ship = {
+name= "Matilda"
+type = clipper_transport
+}
+
+}
+

@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 1
+
+	owner = GHO
+	controller = GHO
+add_core = GHO

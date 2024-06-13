@@ -1,0 +1,165 @@
+CHI = {
+value = 125#relation
+}
+
+leader = {
+name = "Nunes Vidigal"
+date = 1808.1.1
+type = land
+personality = defence_1.1
+background = attack_1.1
+prestige = 0.2
+}
+
+leader = {
+name = "Luís Barreto"
+date = 1824.1.1
+type = land
+personality = defence_1.1
+background = attack_1.1
+prestige = 0.2
+}
+
+leader = {
+name = "Vicente de Mesquita"
+date = 1808.1.1
+type = land
+personality = defence_1.1
+background = attack_1.1
+prestige = 0.0
+}
+
+army = {
+name = "Exército Português"
+location = 31
+regiment = {
+name= "1. Brigada de Infantaria"
+type = infantry
+home = 31
+}
+
+regiment = {
+name= "2. Brigada de Infantaria"
+type = infantry
+home = 38
+}
+
+regiment = {
+name= "3. Brigada de Infantaria"
+type = infantry
+home = 44
+}
+
+regiment = {
+name= "4. Brigada de Infantaria"
+type = infantry
+home = 55
+}
+
+regiment = {
+name= "5. Brigada de Infantaria"
+type = infantry
+home = 34
+}
+
+regiment = {
+name= "1. Brigada de Caballaria"
+type = cuirassier
+home = 60
+}
+
+}
+
+army = {
+name = "Exército do Africa Ocidental"
+location = 42
+
+regiment = {
+name = "1. Divisão Colonial"
+type = infantry
+home = 51
+}
+}
+
+army = {
+name = "Exército do Africa Oriental"
+location = 42
+
+regiment = {
+name = "2. Divisão Colonial"
+type = infantry
+home = 40
+}
+}
+
+army = {
+name = "Exército da Índia"
+location = 42
+
+regiment = {
+name = "3. Divisão Colonial"
+type = infantry
+home = 40
+}
+}
+
+navy = {
+name = "Portugese Royal Navy"
+location = 38
+ship = {
+name= "Rainha de Portugal "
+type = manowar
+}
+
+ship = {
+name= "Dom João VI "
+type = manowar
+}
+
+ship = {
+name= "Nossa Senhora da Conceição"
+type = manowar
+}
+
+ship = {
+name= "São Sebastião"
+type = manowar
+}
+
+ship = {
+name= "Amazônia"
+type = manowar
+}
+
+ship = {
+name= "Princesa Carlota"
+type = manowar
+}
+
+ship = {
+name= "Teresa"
+type = manowar
+}
+
+ship = {
+name= "Príncipe do Brasil"
+type = manowar
+}
+
+ship = {
+name= "1o Navios de Transporte"
+type = clipper_transport
+}
+
+ship = {
+name= "2o Navios de Transporte"
+type = clipper_transport
+}
+
+ship = {
+name= "3o Navios de Transporte"
+type = clipper_transport
+}
+
+}
+

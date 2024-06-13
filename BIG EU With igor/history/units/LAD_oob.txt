@@ -1,0 +1,23 @@
+army = {
+name = "Army of the Chogyal of Ladakh"
+location = 40
+regiment = {
+name= "1.1st Infantry"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "2.1st Infantry"
+type = irregular
+home = 40
+}
+
+regiment = {
+name= "3.1st Infantry"
+type = irregular
+home = 40
+}
+
+}
+

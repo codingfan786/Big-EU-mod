@@ -1,0 +1,42 @@
+187 = {
+	bankers = {
+		culture = sami
+		religion = catholic
+		size = 20000
+	}
+	bankers = {
+		culture = sami
+		religion = protestant
+		size = 20000
+	}
+	bankers = {
+		culture = sami
+		religion = orthodox
+		size = 20000
+	}
+	bankers = {
+		culture = sami
+		religion = coptic
+		size = 20000
+	}
+	bankers = {
+		culture = sami
+		religion = sunni
+		size = 20000
+	}
+	bankers = {
+		culture = sami
+		religion = shiite
+		size = 20000
+	}
+	bankers = {
+		culture = sami
+		religion = jewish
+		size = 20000
+	}
+	bankers = {
+		culture = sami
+		religion = animist
+		size = 20000
+	}
+}
